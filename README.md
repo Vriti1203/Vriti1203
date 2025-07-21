@@ -51,13 +51,13 @@ I enjoy exploring different technologies and working on projects that help me gr
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" title="Power BI"/>
   </a>
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/postman-api.png" width="40" title="Postman"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" title="Postman"/>
   </a>
   <a href="https://www.canva.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" title="Canva"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/matplotlib.png" width="40" title="Matplotlib"/>
+    <img src="https://img.icons8.com/external-others-inmotus-design/48/000000/external-matplotlib-virtualization-others-inmotus-design.png" width="40" title="Matplotlib"/>
   </a>
 </p>
 
