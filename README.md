@@ -38,9 +38,6 @@ I enjoy exploring different technologies and working on projects that help me gr
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
   </a>
@@ -55,9 +52,6 @@ I enjoy exploring different technologies and working on projects that help me gr
   </a>
   <a href="https://www.canva.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" title="Canva"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.icons8.com/external-others-inmotus-design/48/000000/external-matplotlib-virtualization-others-inmotus-design.png" width="40" title="Matplotlib"/>
   </a>
 </p>
 
