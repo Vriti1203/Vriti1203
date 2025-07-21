@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Vriti Singhal
 
-<!--
-**Vriti1203/Vriti1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech enthusiast with a curiosity for building practical, creative solutions.  
+I enjoy exploring different technologies and working on projects that help me grow and improve my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+
+<br>
+
+<!-- Tools without devicon support -->
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" title="Microsoft Excel"/>
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" title="Power BI"/>
+<img src="https://img.icons8.com/color/48/000000/postman-api.png" width="40" title="Postman"/>
+<img src="https://img.icons8.com/color/48/000000/canva.png" width="40" title="Canva"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/matplotlib.png" width="40" title="Matplotlib"/>
+
+---
+
+### 🔗 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vriti-singhal-b093482a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+*Open to collaboration, learning, and meaningful conversations in tech!*
