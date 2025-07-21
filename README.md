@@ -1,4 +1,6 @@
-# Hi 👋, I'm Vriti Singhal
+<p align="center">
+  <h1>Hi 👋, I'm Vriti Singhal</h1>
+</p>
 
 I'm a tech enthusiast with a curiosity for building practical, creative solutions.  
 I enjoy exploring different technologies and working on projects that help me grow and improve my skills.
